@@ -1,7 +1,8 @@
 # drainage_grid
 This program takes in a 2D array of values representing elevations. Utilizing dynamic programming, it returns the longest path water can flow in the grid. Water can only flow to an adjacent (not diagonal) space in the grid with a smaller value. Use a python IDE to run this project. Input the rows, columns, and grid into read_grid.py to run the program.
 # Sample Input
-8 8
+8 8  
+
 1858 64 1418 1665 4575 4546 3085 5616
 3185 1745 3006 4982 4280 4118 421 1445
 2673 6271 3605 2106 3911 4162 962 3730
